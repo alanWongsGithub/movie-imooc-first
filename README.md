@@ -11,8 +11,16 @@
 
 ### 克隆代码
 
+```bash
+git clone git@github.com:alanWongsGithub/movie-imooc-first.git
+```
+
 ### 一步安装
 ```bash
 npm install
 ```
 
+### 运行项目
+```bash
+node app.js
+```
