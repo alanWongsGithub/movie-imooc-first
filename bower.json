@@ -1,14 +1,16 @@
 {
   "name": "imooc",
-  "version": "0.0.1",
+  "description": "Everythinng about movie app for  imooc",
+  "main": "app.js",
   "authors": [
-    "Scott"
-  ],
-  "description": "movies",
-  "keywords": [
-    "movies"
+    "alan"
   ],
   "license": "MIT",
+  "keywords": [
+    "movie"
+  ],
+  "homepage": "",
+  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
@@ -18,6 +20,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.1.0"
+    "bootstrap": "^3.3.7"
   }
 }
